@@ -1,0 +1,25 @@
+*{
+    padding: 10;
+    margin: 10;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+
+}
+body{
+
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-image: url(no.jpg )
+}
+h1{
+    color: lawngreen;
+}
+th{
+    color: aquamarine;
+}
+
+
+
+
+
